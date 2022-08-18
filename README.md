@@ -11,6 +11,7 @@
 </p>
 <p align="center"> <a href="https://github.com/">Сертификаты о прохождении курсов</a></p>
 __________________________________________________________________________________________________________________________
+
 Ноутбуки `.ipynb` и `.py` скрипты:
 01. [Репозиторий - Проекты Data Science](https://github.com/MikhailNaumov88/yandex_praktikum)  
 
@@ -58,7 +59,7 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________________________________
 Notebooks `.ipynb` and` .py` scripts:
-01. [Repository - Data Science projects](https://github.com/ArtyKrafty/Data_science_projects)  
+01. [Repository - Data Science projects](https://github.com/MikhailNaumov88/yandex_praktikum)  
 
 __________________________________________________________________________________________________________________________
 <p align="center">
