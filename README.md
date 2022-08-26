@@ -3,7 +3,7 @@
 <a id='link6'></a>
 <a id='RUS'></a>
 <a href="#ENG"><img src='https://img.shields.io/badge/RUS-ENG-blue'></a>
-<p align="center"><img src='https://images.app.goo.gl/d3zjYaeVsoJhqWp49'></p>
+<p align="center"><img src='https://imageconindia.com/blog/wp-content/uploads/2020/06/5e01fcba91894694172250-1024x576.jpg'></p>
 <p align="center">
   <a href="https://www.kaggle.com/virusz88"><img src='https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white'></a>
   <a href="https://leetcode.com/MikhailNaumov88"><img src='https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black'></a>
