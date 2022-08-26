@@ -3,11 +3,6 @@
 <a id='link6'></a>
 <a id='RUS'></a>
 <a href="#ENG"><img src='https://img.shields.io/badge/RUS-ENG-blue'></a>
-https://www.vde.com/resource/blob/1786428/df363c5b012da7538def98196fdad4c9/artificial-intelligence-konzept-industrie40-166966052-data.jpg
-https://imageio.forbes.com/specials-images/imageserve/5e68d1e5aa54280007598c83/Futuristic-Circuit-Board-Render/960x0.jpg?format=jpg&width=960
-https://www.crushpixel.com/big-static14/preview4/ai-artificial-intelligence-circuit-background-1479207.jpg
-https://www.crushpixel.com/big-static14/preview4/ai-artificial-intelligence-concept-machine-1479204.jpg
-
 <p align="center"><img src='https://www.crushpixel.com/big-static14/preview4/ai-artificial-intelligence-concept-machine-1479204.jpg'></p>
 <p align="center">
   <a href="https://www.kaggle.com/virusz88"><img src='https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white'></a>
@@ -55,7 +50,7 @@ ________________________________________________________________________________
 <a id='ENG'></a>
 <a id='link7'></a>
 <a href="#RUS"><img src='https://img.shields.io/badge/ENG-RUS-blue'></a>
-<p align="center"><img src='https://imageio.forbes.com/specials-images/imageserve/5e68d1e5aa54280007598c83/Futuristic-Circuit-Board-Render/960x0.jpg?format=jpg&width=960'></p>
+<p align="center"><img src='https://www.crushpixel.com/big-static14/preview4/ai-artificial-intelligence-concept-machine-1479204.jpg'></p>
 <p align="center">
   <a href="https://www.kaggle.com/virusz88"><img src='https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white'></a>
   <a href="https://leetcode.com/MikhailNaumov88/"><img src='https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black'></a>
