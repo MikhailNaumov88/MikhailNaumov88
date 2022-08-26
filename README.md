@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Briefly about me:   
+I started learn data science because have been interested in artificial intelligence for many years. I'm increasing my knowledge and skills in data science every day by different education platforms (Stepik: Samsung Research Russia CV and NLP, Coursera, ODS.ai) and participating in competitions (Kaggle, ODS.ai)   
+
+I'm following ODS community to stay up to date with the latest developments and some blogs on YouTube. At this moment it's enough for me. 
+
+I'm interesting in different fields connected with Neural Networks. By having good experience in driving projects and team building in automotive industry I hope to realize these skills in new fields.
+
 <a id='link6'></a>
 <a id='RUS'></a>
 <a href="#ENG"><img src='https://img.shields.io/badge/RUS-ENG-blue'></a>
