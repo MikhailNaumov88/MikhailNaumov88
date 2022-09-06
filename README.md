@@ -16,7 +16,7 @@ I'm interesting in different fields connected with Neural Networks. By having go
   <a href="https://leetcode.com/MikhailNaumov88"><img src='https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black'></a>
   
 </p>
-<p align="center"> <a href="https://github.com/">Сертификаты о прохождении курсов</a></p>
+<p align="center"> <a href="https://github.com/MikhailNaumov88/certificates">Сертификаты о прохождении курсов</a></p>
 
 __________________________________________________________________________________________________________________________
 Ноутбуки `.ipynb` и `.py` скрипты:
