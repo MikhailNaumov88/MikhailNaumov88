@@ -17,8 +17,8 @@ I'm interesting in different fields connected with Neural Networks. By having go
   
 </p>
 <p align="center"> <a href="https://github.com/">Сертификаты о прохождении курсов</a></p>
-__________________________________________________________________________________________________________________________
 
+__________________________________________________________________________________________________________________________
 Ноутбуки `.ipynb` и `.py` скрипты:
 01. [Репозиторий - Проекты Data Science](https://github.com/MikhailNaumov88/yandex_praktikum)  
 02. [Репозиторий - Проекты соревнований Kaggle](https://github.com/MikhailNaumov88/kaggle_competitions)
