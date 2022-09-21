@@ -22,6 +22,7 @@ ________________________________________________________________________________
 Ноутбуки `.ipynb` и `.py` скрипты:
 01. [Репозиторий - Проекты Data Science](https://github.com/MikhailNaumov88/yandex_praktikum)  
 02. [Репозиторий - Проекты соревнований Kaggle](https://github.com/MikhailNaumov88/kaggle_competitions)
+03. [Репозиторий - Остальные проекты](https://github.com/MikhailNaumov88/other_projects)
 
 
 __________________________________________________________________________________________________________________________
@@ -69,6 +70,7 @@ ________________________________________________________________________________
 Notebooks `.ipynb` and` .py` scripts:
 01. [Repository - Data Science projects](https://github.com/MikhailNaumov88/yandex_praktikum)  
 02. [Repository - Competitions Kaggle](https://github.com/MikhailNaumov88/kaggle_competitions)
+03. [Repository - Other projects](https://github.com/MikhailNaumov88/other_projects)
 
 __________________________________________________________________________________________________________________________
 <p align="center">
